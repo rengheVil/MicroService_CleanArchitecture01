@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ProductInfrastucture.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ProductInfrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ProductInfrastucture.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ProductInfrastucture.AssemblyInfo.cs
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ProductInfrastucture.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\bin\Debug\net8.0\ProductInfrastucture.deps.json
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\bin\Debug\net8.0\ProductInfrastucture.runtimeconfig.json
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\bin\Debug\net8.0\ProductInfrastucture.dll
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\bin\Debug\net8.0\ProductInfrastucture.pdb
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\bin\Debug\net8.0\Product.Core.dll
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\bin\Debug\net8.0\Product.Core.pdb
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ProductI.55FC02EF.Up2Date
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ProductInfrastucture.dll
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\refint\ProductInfrastucture.dll
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ProductInfrastucture.pdb
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ProductInfrastucture.genruntimeconfig.cache
+C:\Users\User\Desktop\Microservices\MicroservicesSolutionProject\ProductInfrastucture\obj\Debug\net8.0\ref\ProductInfrastucture.dll
